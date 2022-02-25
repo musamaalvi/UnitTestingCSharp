@@ -1,15 +1,29 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace Phone
+namespace PhoneProject
 {
     public class Phone
     {
-        private float credit { get; set; }
-        public Phone(float cred)
+        private int credit { get; set; }
+        public Phone(int cred)
         {
             credit = cred;
+        }
+        public bool MakePhoneCall()
+        {
+            if (credit >= 1)
+            {
+                credit--;
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }

@@ -1,0 +1,17 @@
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\bin\Debug\Phone.UnitTests.dll
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\bin\Debug\Phone.UnitTests.pdb
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\bin\Debug\Phone.dll
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\bin\Debug\Phone.pdb
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\bin\Debug\Phone.dll.config
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\obj\Debug\Phone.UnitTests.dll
+C:\Users\mualvi\Documents\medium\UnitTesting1\Phone\Phone.UnitTests\obj\Debug\Phone.UnitTests.pdb
